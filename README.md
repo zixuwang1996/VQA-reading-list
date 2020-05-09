@@ -3,6 +3,7 @@
 <h3 id="vi">Visual Question Answering</h3>
 
 * [VQA: Visual Question Answering](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf). *CVPR 2015*.
+* [Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering](https://arxiv.org/pdf/1511.05234.pdf). *CVPR 2016 (VQA Workshop)*.
 * [Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions?](https://www.aclweb.org/anthology/D16-1092/). *EMNLP 2016*.
 * [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://www.aclweb.org/anthology/D16-1031/). *EMNLP 2016*.
 * [Neural Module Networks](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf). *CVPR 2016*.
