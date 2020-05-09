@@ -2,18 +2,25 @@
 
 <h3 id="vi">Visual Question Answering</h3>
 
+* [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://www.aclweb.org/anthology/D14-1179.pdf). *EMNLP 2014*.
 * [VQA: Visual Question Answering](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf). *CVPR 2015*.
+* [Stacked Attention Networks for Image Question Answering](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf). *CVPR 2016*.
 * [Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering](https://arxiv.org/pdf/1511.05234.pdf). *ECCV 2016*.
+* [Revisiting Visual Question Answering Baselines](https://arxiv.org/abs/1606.08390). *ECCV 2016*.
 * [Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions?](https://www.aclweb.org/anthology/D16-1092/). *EMNLP 2016*.
 * [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://www.aclweb.org/anthology/D16-1031/). *EMNLP 2016*.
+* [Learning to Compose Neural Networks for Question Answering](https://www.aclweb.org/anthology/N16-1181/). *ACL 2016*.
 * [Neural Module Networks](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf). *CVPR 2016*.
 * [A Simple Neural Network Module for Relational Reasoning](http://papers.neurips.cc/paper/7082-a-simple-neural-network-module-for-relational-reasoning.pdf). *NIPS 2017*.
 * [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://cs.stanford.edu/people/jcjohns/clevr/). *CVPR 2017*.
+* [Inferring and Executing Programs for Visual Reasoning](http://openaccess.thecvf.com/content_ICCV_2017/papers/Johnson_Inferring_and_Executing_ICCV_2017_paper.pdf). *ICCV 2017*.
 * [Learning to Reason: End-to-End Module Networks for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Learning_to_Reason_ICCV_2017_paper.pdf). *CVPR 2017*.
 * [Compositional Attention Networks for Machine Reasoning ](https://openreview.net/forum?id=S1Euwz-Rb). *ICLR 2018*.
 * [Did the Model Understand the Question?](https://www.aclweb.org/anthology/P18-1176/). *ACL 2018*.
 * [Explainable Neural Computation via Stack Neural Module Networks](https://github.com/ronghanghu/snmn). *ECCV 2018*.
 * [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2708.pdf). *CVPR 2018*.
+* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1163.pdf). *CVPR 2018*.
+* [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mascharka_Transparency_by_Design_CVPR_2018_paper.pdf). *CVPR 2018*.
 * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](http://papers.neurips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf). *NeurIPS 2018*.
 * [Adversarial Regularization for Visual Question Answering: Strengths, Shortcomings, and Side Effects](https://www.aclweb.org/anthology/W19-1801/). *Workshop on Shortcomings in Vision and Language (SiVL) 2019*.
 * [Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering](https://www.aclweb.org/anthology/D19-1155.pdf). *EMNLP 2019*.
