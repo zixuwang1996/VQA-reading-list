@@ -2,7 +2,7 @@
 
 <h3 id="vi">Theory</h3>
 
-* [Filtering Variational Objectives](https://openreview.net/forum?id=SJ25-B5eg). *NIPS 2017*.
+* [Filtering Variational Objectives](https://papers.nips.cc/paper/7235-filtering-variational-objectives.pdf). *NIPS 2017*.
 * [Categorical Reparameterization with Gumbel-Softmax](https://openreview.net/forum?id=rkE3y85ee). *ICLR 2017*.
 * [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://openreview.net/forum?id=S1jE5L5gl). *ICLR 2017*.
 * [The Neural Noisy Channel](https://openreview.net/forum?id=SJ25-B5eg). *ICLR 2017*.
