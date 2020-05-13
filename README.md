@@ -3,7 +3,7 @@
 <h3 id="vi">Survey</h3>
 
 * [Visual Question Answering: Datasets, Methods, Challenges and Oppurtunities](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_VQAreview.pdf). **.
-* [Visual Question Answering using Deep Learning: A Survey and Performance Analysis](https://arxiv.org/abs/1909.01860). **.
+* [Visual Question Answering using Deep Learning: A Survey and Performance Analysis](https://arxiv.org/abs/1909.01860). *arxiv:1909.01860*.
 
 
 <h3 id="vi">Theory</h3>
