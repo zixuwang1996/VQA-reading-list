@@ -17,6 +17,7 @@
 
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://www.aclweb.org/anthology/D14-1179.pdf). *EMNLP 2014*.
 * [VQA: Visual Question Answering](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf). *CVPR 2015*.
+* [Where To Look: Focus Regions for Visual Question Answering](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shih_Where_to_Look_CVPR_2016_paper.pdf). *CVPR 2016*.
 * [Stacked Attention Networks for Image Question Answering](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf). *CVPR 2016*.
 * [Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering](https://arxiv.org/pdf/1511.05234.pdf). *ECCV 2016*.
 * [Revisiting Visual Question Answering Baselines](https://arxiv.org/abs/1606.08390). *ECCV 2016*.
