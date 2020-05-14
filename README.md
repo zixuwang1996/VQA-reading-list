@@ -29,6 +29,7 @@
 * [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://cs.stanford.edu/people/jcjohns/clevr/). *CVPR 2017*.
 * [Inferring and Executing Programs for Visual Reasoning](http://openaccess.thecvf.com/content_ICCV_2017/papers/Johnson_Inferring_and_Executing_ICCV_2017_paper.pdf). *ICCV 2017*.
 * [Learning to Reason: End-to-End Module Networks for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Learning_to_Reason_ICCV_2017_paper.pdf). *CVPR 2017*.
+* [Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering](https://arxiv.org/abs/1704.03162). *arxiv:1704.03162*.
 * [Compositional Attention Networks for Machine Reasoning ](https://openreview.net/forum?id=S1Euwz-Rb). *ICLR 2018*.
 * [Did the Model Understand the Question?](https://www.aclweb.org/anthology/P18-1176/). *ACL 2018*.
 * [Explainable Neural Computation via Stack Neural Module Networks](https://github.com/ronghanghu/snmn). *ECCV 2018*.
