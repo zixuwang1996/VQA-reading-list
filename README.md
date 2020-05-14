@@ -16,6 +16,7 @@
 
 <h3 id="vi">Visual Question Answering</h3>
 
+* [A Bayesian approach to Visual Question Answering](https://www.cs.ubc.ca/~setarehc/data/vqa-bayesian.pdf). *NeurIPS 2018*.
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://www.aclweb.org/anthology/D14-1179.pdf). *EMNLP 2014*.
 * [VQA: Visual Question Answering](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf). *CVPR 2015*.
 * [Where To Look: Focus Regions for Visual Question Answering](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shih_Where_to_Look_CVPR_2016_paper.pdf). *CVPR 2016*.
