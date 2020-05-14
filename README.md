@@ -2,6 +2,7 @@
 
 <h3 id="vi">Survey</h3>
 
+* [Visual question answering: a state-of-the-art review](https://link.springer.com/article/10.1007/s10462-020-09832-7). *Springer 2020*.
 * [Visual Question Answering: Datasets, Methods, Challenges and Oppurtunities](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_VQAreview.pdf). **.
 * [Visual Question Answering using Deep Learning: A Survey and Performance Analysis](https://arxiv.org/abs/1909.01860). *arxiv:1909.01860*.
 
